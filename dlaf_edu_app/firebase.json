@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "dlaf-edu",
+                    "appId": "1:148866572482:android:53887b73fcd4efeafbdb5b",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "dlaf-edu",
+                    "configurations": {
+                        "android": "1:148866572482:android:53887b73fcd4efeafbdb5b",
+                        "ios": "1:148866572482:ios:cfc0698dd7fea15bfbdb5b",
+                        "macos": "1:148866572482:ios:ba73ef8c6835288cfbdb5b",
+                        "web": "1:148866572482:web:8a65756156371dbefbdb5b",
+                        "windows": "1:148866572482:web:a823a9330729904ffbdb5b"
+                    }
+                }
+            }
+        }
+    }
+}

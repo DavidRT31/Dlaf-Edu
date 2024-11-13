@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148866572482",
+    "project_id": "dlaf-edu",
+    "storage_bucket": "dlaf-edu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148866572482:android:53887b73fcd4efeafbdb5b",
+        "android_client_info": {
+          "package_name": "com.dlafedu.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQqoy84Fy5_gaHF3orX4uRWTUPY_S-FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
